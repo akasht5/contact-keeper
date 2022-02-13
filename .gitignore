@@ -1,0 +1,7 @@
+node_modules/
+
+/client/build
+
+.DS_Store
+/client/.env.local
+
